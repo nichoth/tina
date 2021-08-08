@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "copy": "mkdir -p public && cp src/index.html public",
+        "build": "npm run copy"
+    }
+}
